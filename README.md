@@ -1,2 +1,7 @@
-# Criticism-of-Western-Economics
-Learning Record and Reflection
+# README
+
+用来记录学习内容，仅供参考，欢迎讨论
+
+
+
+首先分为三个空间，一个是阅读经济学批判资料，一个是阅读西方经济学的，另一个是个人的批判文章以及一些想法。
