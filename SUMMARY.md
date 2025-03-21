@@ -2,4 +2,4 @@
 
 * [README](README.md)
 * [先导](xian-dao.md)
-* [计划方向](ji-hua-fang-xiang.md)
+* [什么是凯恩斯主义](ji-hua-fang-xiang.md)
