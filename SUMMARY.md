@@ -8,3 +8,6 @@
   * [虚伪透顶的“就业理论”](ji-hua-fang-xiang/xu-wei-tou-ding-de-jiu-ye-li-lun.md)
   * [凯恩斯的救治方案](ji-hua-fang-xiang/kai-en-si-de-jiu-zhi-fang-an.md)
   * [凯恩斯主义的破产](ji-hua-fang-xiang/kai-en-si-zhu-yi-de-po-chan.md)
+* [关于最高阶段的笔记](guan-yu-zui-gao-jie-duan-de-bi-ji/README.md)
+  * [序言](guan-yu-zui-gao-jie-duan-de-bi-ji/xu-yan.md)
+  * [生产集中和垄断](guan-yu-zui-gao-jie-duan-de-bi-ji/sheng-chan-ji-zhong-he-long-duan.md)
