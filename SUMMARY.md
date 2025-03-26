@@ -7,3 +7,4 @@
   * [凯恩斯主义的产生](ji-hua-fang-xiang/kai-en-si-zhu-yi-de-chan-sheng.md)
   * [虚伪透顶的“就业理论”](ji-hua-fang-xiang/xu-wei-tou-ding-de-jiu-ye-li-lun.md)
   * [凯恩斯的救治方案](ji-hua-fang-xiang/kai-en-si-de-jiu-zhi-fang-an.md)
+  * [凯恩斯主义的破产](ji-hua-fang-xiang/kai-en-si-zhu-yi-de-po-chan.md)
