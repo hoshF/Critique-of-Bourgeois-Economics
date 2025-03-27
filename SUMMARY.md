@@ -11,3 +11,4 @@
 * [关于最高阶段的笔记](guan-yu-zui-gao-jie-duan-de-bi-ji/README.md)
   * [序言](guan-yu-zui-gao-jie-duan-de-bi-ji/xu-yan.md)
   * [生产集中和垄断](guan-yu-zui-gao-jie-duan-de-bi-ji/sheng-chan-ji-zhong-he-long-duan.md)
+  * [银行和银行的新作用](guan-yu-zui-gao-jie-duan-de-bi-ji/yin-hang-he-yin-hang-de-xin-zuo-yong.md)
