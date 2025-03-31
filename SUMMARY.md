@@ -13,3 +13,4 @@
   * [生产集中和垄断](guan-yu-zui-gao-jie-duan-de-bi-ji/sheng-chan-ji-zhong-he-long-duan.md)
   * [银行和银行的新作用](guan-yu-zui-gao-jie-duan-de-bi-ji/yin-hang-he-yin-hang-de-xin-zuo-yong.md)
   * [金融资本和金融寡头](guan-yu-zui-gao-jie-duan-de-bi-ji/jin-rong-zi-ben-he-jin-rong-gua-tou.md)
+  * [资本输出](guan-yu-zui-gao-jie-duan-de-bi-ji/zi-ben-shu-chu.md)
