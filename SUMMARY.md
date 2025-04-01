@@ -14,3 +14,4 @@
   * [银行和银行的新作用](guan-yu-zui-gao-jie-duan-de-bi-ji/yin-hang-he-yin-hang-de-xin-zuo-yong.md)
   * [金融资本和金融寡头](guan-yu-zui-gao-jie-duan-de-bi-ji/jin-rong-zi-ben-he-jin-rong-gua-tou.md)
   * [资本输出](guan-yu-zui-gao-jie-duan-de-bi-ji/zi-ben-shu-chu.md)
+  * [资本家同盟分割世界](guan-yu-zui-gao-jie-duan-de-bi-ji/zi-ben-jia-tong-meng-fen-ge-shi-jie.md)
