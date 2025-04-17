@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 说明
 
 本仓库记录学习马克思主义政治经济学关于资产阶级经济学部分的内容。我将内容分为以下三个部分。

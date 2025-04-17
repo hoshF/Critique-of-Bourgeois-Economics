@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 资本家同盟瓜分世界
 
 资本家的垄断同盟卡特尔、辛迪加、托拉斯，首先瓜分国内市场，把本国的生产差不多完全掌握在自己手里。但是在资本主义制度下，国内市场必然是同国外市场相联系的。资本主义早已造成了世界市场。所以随着资本输出的增加，随着最大垄断同盟的国外联系、殖民地联系和“势力范围”的极力扩大，这些垄断同盟就“自然地”走向达成世界性的协议，形成国际卡特尔。

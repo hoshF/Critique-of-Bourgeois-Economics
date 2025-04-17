@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 生产集中与垄断
 
 货币资本和银行使极少数最大企业的这种优势变成更强大的而且是名副其实的压倒优势，就是说，几百万中小“业主”，甚至一部分大“业主”，实际上完全受几百个金融富豪的奴役。

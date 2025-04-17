@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 序言
 
 要知道，能够证明战争的真实社会性质，确切些说，证明战争的真实阶级性质的，自然不是战争的外交史，而是对所有交战大国统治阶级的客观情况的分析。为了说明这种客观情况，应当利用的，不是一些例子和个别的材料（社会生活现象极其复杂，随时都可以找到任何数量的例子或个别的材料来证实任何一个论点），而必须是关于所有交战大国和全世界的经济生活基础的材料的总和。
