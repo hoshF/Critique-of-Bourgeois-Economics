@@ -11,6 +11,6 @@
   * [资本家同盟瓜分世界](<Critique of Economics/Notes-on-the-highest-stage/Capitalists-Alliance-divides-the-world.md>)
 * [什么是凯恩斯主义](<Critique of Economics/What-is-Keynesianism/introduction.md>)
   * [作者自述](<Critique of Economics/What-is-Keynesianism/Authors-statement.md>)
+  * [凯恩斯主义的产生](<Critique of Economics/What-is-Keynesianism/The-emergence-of-Keynesianism.md>)
   * [凯恩斯的救治方案](<Critique of Economics/What-is-Keynesianism/Keynes-treatment-plan.md>)
   * [凯恩斯主义的破产](<Critique of Economics/What-is-Keynesianism/The-bankruptcy-of-Keynesianism.md>)
-  * [凯恩斯主义的产生](<Critique of Economics/What-is-Keynesianism/The-emergence-of-Keynesianism.md>)
