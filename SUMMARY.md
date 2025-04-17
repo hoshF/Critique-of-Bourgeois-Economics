@@ -2,8 +2,8 @@
 
 * [说明](README.md)
 * [概述](<Critique of Economics/Part-statment.md>)
-* [最高阶段的笔记](<Critique of Economics/Notes-on-the-highest-stage/preface.md>)
-  * [序言](preface/xu-yan.md)
+* [最高阶段的笔记](<Critique of Economics/Notes-on-the-highest-stage/basic.md>)
+  * [序言](<Critique of Economics/Notes-on-the-highest-stage/Preface.md>)
   * [生产集中与垄断](<Critique of Economics/Notes-on-the-highest-stage/Production-concentration-and-monopoly.md>)
   * [银行和银行的新作用](<Critique of Economics/Notes-on-the-highest-stage/New-roles-of-banks-and-banks.md>)
   * [金融资本和金融寡头](<Critique of Economics/Notes-on-the-highest-stage/Financial-capital-and-financial-oligarchs.md>)
@@ -12,5 +12,6 @@
 * [什么是凯恩斯主义](<Critique of Economics/What-is-Keynesianism/introduction.md>)
   * [作者自述](<Critique of Economics/What-is-Keynesianism/Authors-statement.md>)
   * [凯恩斯主义的产生](<Critique of Economics/What-is-Keynesianism/The-emergence-of-Keynesianism.md>)
+  * [虚伪透顶的“就业理论”](<Critique of Economics/What-is-Keynesianism/A-completely-hypocritical-employment-theory.md>)
   * [凯恩斯的救治方案](<Critique of Economics/What-is-Keynesianism/Keynes-treatment-plan.md>)
   * [凯恩斯主义的破产](<Critique of Economics/What-is-Keynesianism/The-bankruptcy-of-Keynesianism.md>)
