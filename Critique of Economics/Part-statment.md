@@ -1,8 +1,18 @@
 ---
-icon: '0'
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# 先导
+# 概述
 
 这部分是记录<mark style="color:blue;">**阅读批判资产阶级经济学资料**</mark>的内容，我能搜索到的资料都是80年代之前的，在社会主义运动高潮时期的资料，这是很自然的，物质利益的斗争必然要在意识形态方面表现出来，当无产阶级夺取政权，掌握国家机器之后，必然要建立和巩固自己的上层建筑，通过全面批判资产阶级的上层建筑，来全面发展自己的上层建筑，把旧时代的残余从人们的意识当中清理出去。这个时期的批判是最有力量的，它是真正符合历史必然性，运用历史唯物主义和唯物辩证法揭示的，人类社会的必然规律。
 

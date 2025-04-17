@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 资本输出
 
 对自由竞争占完全统治地位的旧资本主义来说，典型的是商品输出。对垄断占统治地位的最新资本主义来说，典型的则是资本输出。
