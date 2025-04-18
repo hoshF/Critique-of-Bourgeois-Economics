@@ -1,3 +1,0 @@
-# okcd
-
-gogosc
