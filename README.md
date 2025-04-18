@@ -1,12 +1,10 @@
-# 资产阶级经济学批判
+# 说明
 
 本仓库记录学习马克思主义政治经济学关于资产阶级经济学部分的内容。
 
-
-
 * [经济学批判](<Critique of Economics/Part-statment.md>)
-* [资产阶级经济学](Bourgeois%20economics/Part-statment.md)
-* [我的批判](My%20criticism/Part-statment.md)
+* [资产阶级经济学](https://app.gitbook.com/s/BFwoRAQQfHmNg6hzVIHZ/)
+* [我的批判](https://app.gitbook.com/s/3TsgWw4fhSJHOeE7Sb4f/)
 
 ### 使用方法
 
